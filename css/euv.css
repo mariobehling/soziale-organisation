@@ -1,0 +1,66 @@
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+TABLE {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+BODY {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+SMALL {
+	FONT-SIZE: 75%
+}
+.small {
+	FONT-SIZE: 75%
+}
+.list1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 95%; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; COLOR: #000000; BORDER-TOP-COLOR: #ffffff; BORDER-RIGHT-COLOR: black
+}
+.list {
+	FONT-WEIGHT: bold; FONT-SIZE: 95%; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; COLOR: #ffffff; BORDER-TOP-COLOR: #ffffff; BORDER-RIGHT-COLOR: black
+}
+TD {
+	FONT-SIZE: medium; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.x-small {
+	FONT-SIZE: 80%; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.row {
+	FONT-WEIGHT: bold; FONT-SIZE: 85%; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; BORDER-TOP-COLOR: #ffffff; BORDER-RIGHT-COLOR: black
+}
+H2 {
+	BORDER-RIGHT: black; BORDER-TOP: black; FONT-WEIGHT: bold; FONT-SIZE: 110%; BORDER-LEFT: black; COLOR: #000000; BORDER-BOTTOM: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	BORDER-RIGHT: black 0px; BORDER-TOP: black thin; FONT-WEIGHT: normal; FONT-SIZE: 110%; MARGIN-BOTTOM: 0px; WORD-SPACING: normal; MARGIN-LEFT: 0px; TEXT-TRANSFORM: none; BORDER-LEFT: black 0px; COLOR: #000000; BORDER-BOTTOM: black 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; BACKGROUND-COLOR: #dfeeff
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; FONT-FAMILY: Georgia, "Times New Roman", Times, serif; BACKGROUND-COLOR: #dfeeff
+}
+UL {
+	LIST-STYLE-IMAGE: url(../gif/arrow_rght.gif)
+}
+H6 {
+	CLEAR: none; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 75%; BORDER-LEFT-COLOR: black; FLOAT: none; BORDER-BOTTOM-COLOR: black; PADDING-BOTTOM: 0px; MARGIN: 0px; TEXT-TRANSFORM: none; WIDTH: 0px; BORDER-TOP-COLOR: #ffffff; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 0px; FONT-VARIANT: normal; BORDER-RIGHT-COLOR: black
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+H1 {
+	BORDER-RIGHT: black; BORDER-TOP: black; MARGIN-TOP: 0px; FONT-WEIGHT: normal; FONT-SIZE: 160%; MARGIN-BOTTOM: 0px; BORDER-LEFT: black; COLOR: #000000; BORDER-BOTTOM: black; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.smallnavi {
+	CLEAR: none; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 75%; BORDER-LEFT-COLOR: black; FLOAT: none; BORDER-BOTTOM-COLOR: black; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 0px; BORDER-TOP-COLOR: #ffffff; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 0px; BORDER-RIGHT-COLOR: black
+}
+.negative {
+	FONT-WEIGHT: bold; COLOR: #ffffff; BACKGROUND-COLOR: #0066cc
+}
